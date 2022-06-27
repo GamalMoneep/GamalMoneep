@@ -74,10 +74,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyadMoneep&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Gamal Moneep" /></p>
 
-<!-- <br>
+<br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=ZiyadMoneep&bg_color=0d1117&text_color=ffffff" alt="Gamal Moneep" /></a> </p> -->
+      src="https://github-profile-trophy.vercel.app/?username=ZiyadMoneep&bg_color=0d1117&text_color=ffffff" alt="Gamal Moneep" /></a> </p>
       
-<p align="left"> <a href="https://twitter.com/ZMoneep" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Gamal Moneep" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/ZMoneep" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Gamal Moneep" /></a> </p> -->
