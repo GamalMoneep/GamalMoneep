@@ -8,7 +8,8 @@
 
 - 🌱 I’m currently Backend Engineer (Python / Django) as well as Smart Contract developer.
 
-- 📫 How to reach me **gamal-moneep@zmoneep.com**
+- 📫 How to reach me 
+  **gamal-moneep@zmoneep.com**
 
 - ⚡ Fun fact :- Coffee, and especially Espresso are the reasons to live.
 
