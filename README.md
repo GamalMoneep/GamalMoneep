@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gamal Moneep</h1>
-<h3 align="center">🤓️ Deep learning engineer as well as Backend Engineer (Python / Django).</h3>
+<h3 align="center">🤓️ Backend Engineer (Python / Django | Odoo ) as well as Data Engineer .</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Gamal-Moneep" /></p>
 
 
-- 🌱 I’m currently Backend Engineer (Python / Django) as well as Smart Contract engineer.
+- 🌱 I’m currently Backend Engineer (Python / Django | Odoo ) as well as Data Engineer .
 
 - 📫 How to reach me 
   **gamal-moneep@zmoneep.com**
