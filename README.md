@@ -3,33 +3,33 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Gamal-Moneep" /></p>
+<!--<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Gamal-Moneep" /></p> -->
 
 
 - 🌱 I’m currently a Cloud DevOps Engineer / Backend Engineer (Python / Django).
 
 - 📫 How to reach me 
-  **gamal-moneep@zmoneep.com**
+  <!-- **gamal-moneep@zmoneep.com** -->
   **gamal.moneep.dev@gmail.com**
 
 - ⚡ Fun fact :- Coffee, and especially Espresso are the reasons to live.
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gamal-moneep/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="gamal-moneep" height="30" width="40" /></a> 
+<h3 align="center">Connect with me</h3>
+<div align="center">
+ <p align="center">
+   <a href="https://www.linkedin.com/in/gamal-moneep/" target="blank"><img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="gamal-moneep" height="30" width="40" /> </a> <a href="https://twitter.com/ZMoneep" target="blank"> <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+       alt="ZMoneep" height="30" width="40" /> </a> <!--<a href="https://instagram.com/ziyad_moneep/" target="blank"> <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="ziyad_moneep" height="30" width="40" /> </a> -->
   
-  <a href="https://instagram.com/ziyad_moneep/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ziyad_moneep" height="30" width="40" /></a> 
- 
- <a href="https://twitter.com/ZMoneep" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ZMoneep" height="30" width="40" /></a> 
-</p>
+ </p>
+</div>
+
 
 <br>
 
