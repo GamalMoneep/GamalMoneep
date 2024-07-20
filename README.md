@@ -6,7 +6,7 @@
 <!--<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Gamal-Moneep" /></p> -->
 
 
-- 🌱 I’m currently a Data Analyst | Data Scientist / Backend Engineer (Python / Django).
+- 🌱 I’m currently a Backend Engineer (Python / Django / Java / Spring Boot).
 
 - 📫 How to reach me 
   <!-- **gamal-moneep@zmoneep.xyz** -->
