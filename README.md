@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gamal Moneep </h1>
-<h3 align="center">🤓️ Data Analyst | Data Scientist / Backend Engineer (Python / Django / Java / Spring Boot) .</h3>
+<h3 align="center">🤓️ Data Enthusiast / Backend Engineer (Python / Django / Java / Spring Boot) .</h3>
 
 <br>
 
