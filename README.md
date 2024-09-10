@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gamal Moneep
 
-### 🤓 Backend Engineer (Python - Java) | Transitioning to Defensive Cybersecurity | SOC Analyst
+### 🤓 Backend Engineer (Python - Java) | Defensive Cybersecurity | SOC Analyst
 
 ---
 
