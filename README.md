@@ -1,10 +1,10 @@
 # Hi 👋, I'm Gamal Moneep
 
-### 🤓 Backend Engineer (Python - Java) | Defensive Cybersecurity | SOC Analyst
+### 🤓 Security Engineer / Analyst / DevSecOps | Aplicatioon Security | Former Backend Engineer (Python - Java)
 
 ---
 
-Welcome to my GitHub profile! I'm a **Backend Engineer** with extensive experience in **Python** and **Java** development, now transitioning into the field of **Defensive Cybersecurity**. I am passionate about combining my development background with cybersecurity skills to tackle modern security challenges.
+Welcome to my GitHub profile! I'm a **Backend Engineer** with extensive experience in **Python** and **Java** development, now transitioning into the field of **Cybersecurity**. I am passionate about combining my development background with cybersecurity skills to tackle modern security challenges.
 
 ---
 
@@ -18,11 +18,9 @@ Welcome to my GitHub profile! I'm a **Backend Engineer** with extensive experien
 - **Tools:** Docker, Kubernetes, Git, Jenkins, CI/CD pipelines
 - **Testing:** PyTest, JUnit, Mocking (Mockito), TDD, DDD
 
-#### Cybersecurity & SOC
-- **Threat Hunting & Incident Response**
-  - SIEM solutions: Splunk, ELK Stack (Elasticsearch, Logstash, Kibana)
-  - Intrusion Detection/Prevention Systems (IDS/IPS)
-  - Malware analysis and reverse engineering tools (IDA Pro, Ghidra)
+#### Cybersecurity & 
+- **Penetration Testing & reverse engineering**
+
 - **Security Tools:**
   - Wireshark, Nmap, Nessus
   - Firewalls, VPNs, and Endpoint Detection and Response (EDR) systems
@@ -36,11 +34,6 @@ Welcome to my GitHub profile! I'm a **Backend Engineer** with extensive experien
 
 ### 🔄 **Current Focus**
 
-- **Transitioning into Defensive Cybersecurity:**
-  - Enhancing my skills in **SOC operations**, **threat intelligence**, and **incident response**.
-  - Learning more about **malware analysis**, **reverse engineering**, and **defensive security strategies**.
-  - Experimenting with **security tools** and building labs for hands-on experience.
-
 ---
 
 ## 🛠 Open Source Contributions & Blog
@@ -52,7 +45,7 @@ I am planning to start a blog soon to share articles and projects in **cybersecu
 ## 🛠 Skills & Tools
 
 - **Languages & Frameworks**: Python, Java, Django, Spring Boot
-- **Cybersecurity**: SOC Operations, Threat Detection, Incident Response, Malware Analysis
+- **Cybersecurity**: DevSecOps , APIs Security , web security , mobile application security , Reverse Engineering
 - **Tools**: Docker, Kubernetes, Elasticsearch, AWS, GCP, Git, Jenkins, etc.
 
 ---
