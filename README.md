@@ -1,51 +1,32 @@
 # Hi 👋, I'm Gamal Moneep
 
-### 🤓 Security Engineer / Analyst / DevSecOps | Aplicatioon Security | Former Backend Engineer (Python - Java)
+### 🤓 Security Engineer / DevSecOps | Application Security | Backend Engineer (Python - Java)
 
 ---
 
-Welcome to my GitHub profile! I'm a **Backend Engineer** with extensive experience in **Python** and **Java** development, now transitioning into the field of **Cybersecurity**. I am passionate about combining my development background with cybersecurity skills to tackle modern security challenges.
+### About Me  
 
----
+I'm a **Security Engineer** specializing in **DevSecOps** and **Application Security**, with expertise in **web**, **API**, and **mobile security**. I work to identify and resolve vulnerabilities, ensuring secure and resilient systems.  
 
-### 🔧 **Skills Overview**
+With a background as a **Backend Engineer** in **Python** and **Java**, I bridge the gap between development and security, integrating best practices into the software lifecycle.  
 
-#### Backend Development
-- **Languages:** Python, Java
-- **Frameworks:** Django, Flask, Spring Boot
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **APIs:** RESTful, GraphQL
-- **Tools:** Docker, Kubernetes, Git, Jenkins, CI/CD pipelines
-- **Testing:** PyTest, JUnit, Mocking (Mockito), TDD, DDD
+Currently, I’m focused on vulnerability research, penetration testing, and leveraging AI to automate security workflows.  
 
-#### Cybersecurity & 
-- **Penetration Testing & reverse engineering**
+Explore my repositories to see my work and contributions! 🚀  
 
-- **Security Tools:**
-  - Wireshark, Nmap, Nessus
-  - Firewalls, VPNs, and Endpoint Detection and Response (EDR) systems
-
-#### DevOps & System Administration
-- **Operating Systems:** Linux, Windows Server
-- **Automation:** Bash scripting, Ansible, Terraform
-- **Networking:** TCP/IP, DNS, Load Balancers, VLANs, Firewalls
-
----
-
-### 🔄 **Current Focus**
 
 ---
 
 ## 🛠 Open Source Contributions & Blog
 
-I am planning to start a blog soon to share articles and projects in **cybersecurity**, covering topics in **Cybersecurity**. Stay tuned!
+I plan to start a blog soon to share articles and projects in **cybersecurity**, covering topics in **Cybersecurity**. Stay tuned!
 
 ---
 
 ## 🛠 Skills & Tools
 
 - **Languages & Frameworks**: Python, Java, Django, Spring Boot
-- **Cybersecurity**: DevSecOps , APIs Security , web security , mobile application security , Reverse Engineering
+- **Cybersecurity**: DevSecOps, APIs Security, web security, mobile application security, Reverse Engineering
 - **Tools**: Docker, Kubernetes, Elasticsearch, AWS, GCP, Git, Jenkins, etc.
 
 ---
