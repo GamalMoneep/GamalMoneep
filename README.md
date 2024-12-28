@@ -25,7 +25,7 @@ I plan to start a blog soon to share articles and projects in **cybersecurity**,
 
 ## 🛠 Skills & Tools
 
-- **Languages & Frameworks**: Python, Java, Django, Spring Boot
+- **Languages & Frameworks**: Python, Java, Go, C++, Django, Spring Boot
 - **Cybersecurity**: DevSecOps, APIs Security, web security, mobile application security, Reverse Engineering
 - **Tools**: Docker, Kubernetes, Elasticsearch, AWS, GCP, Git, Jenkins, etc.
 
