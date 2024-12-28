@@ -10,7 +10,7 @@ I'm a **Security Engineer** specializing in **DevSecOps** and **Application Secu
 
 With a background as a **Backend Engineer** in **Python** and **Java**, I bridge the gap between development and security, integrating best practices into the software lifecycle.  
 
-Currently, I’m focused on vulnerability research, penetration testing, and leveraging AI to automate security workflows.  
+Currently, I’m focused on vulnerability research, penetration testing, and leveraging AI in offensive security.  
 
 Explore my repositories to see my work and contributions! 🚀  
 
