@@ -1,6 +1,8 @@
 # Hi 👋, I'm Gamal Moneep
 
-### 🤓 Application Security Engineer / DevSecOps | Backend Engineer (Python - Java)
+### 🤓 Application Security Engineer | AI Engineer | Backend Engineer (Python - Java) | Quantum AI Enthusiast
+
+
 
 ---
 
