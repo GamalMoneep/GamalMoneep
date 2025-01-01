@@ -1,18 +1,17 @@
 # Hi 👋, I'm Gamal Moneep
 
-### 🤓 Security Engineer / DevSecOps | Application Security | Backend Engineer (Python - Java)
+### 🤓 Application Security Engineer / DevSecOps | Backend Engineer (Python - Java)
 
 ---
 
 ### About Me  
 
-I'm a **Security Engineer** specializing in **DevSecOps** and **Application Security**, with expertise in **web**, **API**, and **mobile security**. I work to identify and resolve vulnerabilities, ensuring secure and resilient systems.  
+I’m a **Quantum AI Enthusiast** and **Security Engineer** with a background in **backend development** (Python, Java, C++) and a growing interest in **AI-driven offensive security**.  
 
-With a background as a **Backend Engineer** in **Python** and **Java**, I bridge the gap between development and security, integrating best practices into the software lifecycle.  
+My current focus is on **leveraging AI** to address challenges across various domains and exploring innovative applications of **Quantum AI** in many fields.  
 
-Currently, I’m focused on vulnerability research, penetration testing, and leveraging AI in offensive security.  
+Check out my repositories for experiments in **AI**, **security**, and **Quantum AI**, as well as resources I share to promote learning and collaboration in emerging tech fields. 🚀  
 
-Explore my repositories to see my work and contributions! 🚀  
 
 
 ---
