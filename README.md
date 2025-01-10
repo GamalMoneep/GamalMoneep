@@ -8,7 +8,7 @@
 
 ### About Me  
 
-I’m a **Quantum AI Enthusiast** and **Security Engineer** with a background in **backend development** (Python, Java, C++) and a growing interest in **AI-driven offensive security**.  
+I’m a **Quantum AI Enthusiast** and **AI Engineer** with a background in **backend development** (Python, Java, C++) and a growing interest in **AI-driven offensive security**.  
 
 My current focus is on **leveraging AI** to address challenges across various domains and exploring innovative applications of **Quantum AI** in many fields.  
 
