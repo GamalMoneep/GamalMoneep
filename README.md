@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gamal Moneep
 
-### 🤓 Application Security Engineer | AI Engineer | Backend Engineer (Python - Java - C++) | Quantum AI Enthusiast
+### 🤓 Deep Learning | Machine Learning | AI Engineer | Backend Engineer (Python - C++) | Quantum AI Enthusiast
 
 
 
@@ -8,11 +8,11 @@
 
 ### About Me  
 
-I’m a **Quantum AI Enthusiast** and **AI Engineer** with a background in **backend development** (Python, Java, C++) and a growing interest in **AI-driven offensive security**.  
+I’m a **Quantum AI Enthusiast** and **AI Engineer** with a background in **backend development** (Python, C++) and a growing interest in **AI-driven offensive security**.  
 
 My current focus is on **leveraging AI** to address challenges across various domains and exploring innovative applications of **Quantum AI** in many fields.  
 
-Check out my repositories for experiments in **AI**, **security**, and **Quantum AI**, as well as resources I share to promote learning and collaboration in emerging tech fields. 🚀  
+Check out my repositories for experiments in **AI**, and **Quantum AI**, as well as resources I share to promote learning and collaboration in emerging tech fields. 🚀  
 
 
 
@@ -20,14 +20,14 @@ Check out my repositories for experiments in **AI**, **security**, and **Quantum
 
 ## 🛠 Open Source Contributions & Blog
 
-I plan to start a blog soon to share articles and projects in **cybersecurity**, covering topics in **Cybersecurity**. Stay tuned!
+I plan to start a blog soon to share articles and projects, covering topics in **AI** and several topics. Stay tuned!
 
 ---
 
 ## 🛠 Skills & Tools
 
-- **Languages & Frameworks**: Python, Java, Go, C++, Django, Spring Boot
-- **Cybersecurity**: DevSecOps, APIs Security, web security, mobile application security, Reverse Engineering
+- **Languages & Frameworks**: Python, Go, C++, Django, Flask, FastAPI.
+- **AI**: Deep Learning, Machine Learning, AI, Computer vision, Generative AI.
 - **Tools**: Docker, Kubernetes, Elasticsearch, AWS, GCP, Git, Jenkins, etc.
 
 ---
