@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gamal Moneep
 
-### 🤓 Deep Learning | Machine Learning | AI Engineer | Backend Engineer (Python - C++) | Quantum AI 
+### 🤓 Vulnerability Researcher | Deep Learning | Machine Learning | AI Engineer | Backend Engineer (Python - C++) | Quantum AI 
 
 
 
@@ -8,7 +8,7 @@
 
 ### About Me  
 
-I’m a **Quantum AI ** and **AI Engineer** with a background in **backend development** (Python, C++) and a growing interest in **AI-driven offensive security**.  
+I’m a **Vulnerability Researcher** and **AI Engineer** with a background in **backend development** (Python, C++) and a growing interest in **AI-driven offensive security**.  
 
 My current focus is on **leveraging AI** to address challenges across various domains and exploring innovative applications of **Quantum AI** in many fields.  
 
