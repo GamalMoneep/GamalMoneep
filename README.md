@@ -26,7 +26,7 @@ I plan to start a blog soon to share articles and projects, covering topics in *
 
 ## 🛠 Skills & Tools
 
-- **Languages & Frameworks**: Java, Python, Go, C++, Spring Boot, Django, Flask, FastAPI.
+- **Languages & Frameworks**: Assembly, C, C++, Rust, Java, Python, Go, Spring Boot, Django, Flask, FastAPI.
 - **AI**: Deep Learning, Machine Learning, AI, Computer vision, Generative AI.
 - **Tools**: Docker, Kubernetes, Elasticsearch, AWS, GCP, Git, Jenkins, etc.
 
